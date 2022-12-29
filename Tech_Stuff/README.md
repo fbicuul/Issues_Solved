@@ -6,7 +6,7 @@ Try checking your Git Credentials to ensure you’re using the exact details of 
 
 >> Go to your “START” menu on your PC
 
-* Search for Control Panel
+>> Search for Control Panel
 
 >> Then search for Credential Manager
 
